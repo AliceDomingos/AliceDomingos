@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+
 # Olá! Eu sou a Alice 👋
 
 ## 👩‍💻 Sobre Mim
