@@ -3,7 +3,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Desenvolvedora Web Full Stack em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado. Atualmente no 2º período de **Sistemas de Informação** e com 3 meses de experiência profissional na área.
+Desenvolvedora Web Full Stack em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado. Atualmente no 2º período de **Sistemas de Informação** e com 8 meses de experiência profissional na área.
 
 Acredito que cada linha de código é uma oportunidade de aprender algo novo, e estou empolgada em construir minha trajetória no mundo do desenvolvimento!
 
