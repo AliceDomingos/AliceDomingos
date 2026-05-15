@@ -1,49 +1,103 @@
+<div align="center">
 
-# Olá! Eu sou a Alice 👋
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCente
+  r=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Alice!+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+.NET+Core+%7C+C%23;Semp
+  re+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 👩‍💻 Sobre Mim
+  </div>
 
-Desenvolvedora Web Full Stack em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado. Atualmente no 2º período de **Sistemas de Informação** e com 8 meses de experiência profissional na área.
+  ---
 
-Acredito que cada linha de código é uma oportunidade de aprender algo novo, e estou empolgada em construir minha trajetória no mundo do desenvolvimento!
+  ## 👩‍💻 Sobre Mim
 
-## 🚀 Tecnologias que Estou Aprendendo
+  Desenvolvedora Web Full Stack em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado.
+  Atualmente no 2º período de **Sistemas de Informação** e com 8 meses de experiência profissional na área.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  Acredito que cada linha de código é uma oportunidade de aprender algo novo, e estou empolgada em construir minha
+  trajetória no mundo do desenvolvimento!
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ---
 
-## 📚 Atualmente Estudando
+  ## 🚀 Tecnologias
 
-- Desenvolvimento Full Stack com React e .NET Core
-- Boas práticas de programação
-- Arquitetura de software
-- Sistemas de Informação na faculdade
+  <div align="center">
 
-## 🌱 Objetivos
+  ### Frontend
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 
-- Consolidar meus conhecimentos em desenvolvimento web
-- Contribuir em projetos open source
-- Criar projetos pessoais que resolvam problemas reais
-- Crescer como desenvolvedora Full Stack
+  ### Backend
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)](https://skillicons.dev)
 
-## 📊 Estatísticas GitHub
+  ### Ferramentas
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceDomingos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+  </div>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceDomingos&layout=compact&theme=dracula)
+  ---
 
-## 📫 Como Me Encontrar
+  ## 📚 Atualmente Estudando
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicedomingosdev18@gmail.com)
+  - Desenvolvimento Full Stack com React e .NET Core
+  - Boas práticas de programação
+  - Arquitetura de software
+  - Sistemas de Informação na faculdade
 
----
+  ---
 
-⭐ "*A jornada de mil milhas começa com um único passo*" - E eu estou dando os meus primeiros passos no mundo do desenvolvimento!
+  ## 🌱 Objetivos
+
+  - Consolidar meus conhecimentos em desenvolvimento web
+  - Contribuir em projetos open source
+  - Criar projetos pessoais que resolvam problemas reais
+  - Crescer como desenvolvedora Full Stack
+
+  ---
+
+  ## 📊 Estatísticas GitHub
+
+  <div align="center">
+
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceDomingos&show_icons=true&theme=drac
+  ula&include_all_commits=true&count_private=true)
+
+  ![Linguagens mais
+  usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceDomingos&layout=compact&theme=dracula)
+
+  [![GitHub
+  Streak](https://streak-stats.demolab.com?user=AliceDomingos&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+
+  </div>
+
+  ---
+
+  ## 🏙️ Minhas Contribuições
+
+  <div align="center">
+
+  ![City Animation](https://raw.githubusercontent.com/AliceDomingos/AliceDomingos/output/dist/contrib-runner.svg)
+
+  </div>
+
+  ---
+
+  ## 📫 Como Me Encontrar
+
+  <div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK
+  EDIN)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicedomin
+  gosdev18@gmail.com)
+
+  </div>
+
+  ---
+
+  <div align="center">
+
+  ⭐ *"A jornada de mil milhas começa com um único passo"* — E eu estou dando os meus primeiros passos no mundo do
+  desenvolvimento!
+
+  </div>
+
+  ---
