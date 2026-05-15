@@ -1,103 +1,32 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCente
-r=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Alice!+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+.NET+Core+%7C+C%23;Semp
-re+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-  </div>
-
-  ---
-
-  ## 👩‍💻 Sobre Mim
-
-  Desenvolvedora Web Full Stack em início de carreira, apaixonada por tecnologia e sempre em busca de aprendizado.
-  Atualmente no 2º período de **Sistemas de Informação** e com 8 meses de experiência profissional na área.
-
-  Acredito que cada linha de código é uma oportunidade de aprender algo novo, e estou empolgada em construir minha
-  trajetória no mundo do desenvolvimento!
-
-  ---
-
-  ## 🚀 Tecnologias
+ Arquivo 1 — README.md
 
   <div align="center">
 
-  ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=
+  61DAFB&center=true&vCenter=true&width=680&lines=Ol%C3%A1%2C+eu+sou+a+Alice!+%F0%9F%91%8B;Full+Stack+Developer;React+%7
+  C+.NET+Core+%7C+C%23;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
 
-  ### Backend
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)](https://skillicons.dev)
+  <br/>
 
-  ### Ferramentas
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
-
-  </div>
-
-  ---
-
-  ## 📚 Atualmente Estudando
-
-  - Desenvolvimento Full Stack com React e .NET Core
-  - Boas práticas de programação
-  - Arquitetura de software
-  - Sistemas de Informação na faculdade
-
-  ---
-
-  ## 🌱 Objetivos
-
-  - Consolidar meus conhecimentos em desenvolvimento web
-  - Contribuir em projetos open source
-  - Criar projetos pessoais que resolvam problemas reais
-  - Crescer como desenvolvedora Full Stack
-
-  ---
-
-  ## 📊 Estatísticas GitHub
-
-  <div align="center">
-
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AliceDomingos&show_icons=true&theme=drac
-  ula&include_all_commits=true&count_private=true)
-
-  ![Linguagens mais
-  usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceDomingos&layout=compact&theme=dracula)
-
-  [![GitHub
-  Streak](https://streak-stats.demolab.com?user=AliceDomingos&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
-
-  </div>
-
-  ---
-
-  ## 🏙️ Minhas Contribuições
-
-  <div align="center">
-
-  ![City Animation](https://raw.githubusercontent.com/AliceDomingos/AliceDomingos/output/dist/contrib-runner.svg)
-
-  </div>
-
-  ---
-
-  ## 📫 Como Me Encontrar
-
-  <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK
-  EDIN)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK
+  _LINKEDIN)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicedomin
   gosdev18@gmail.com)
 
   </div>
 
-  ---
+  <br/>
 
-  <div align="center">
+  ```javascript
+  const alice = {
+    cargo:    "Desenvolvedora Full Stack",
+    cidade:   "Mineiros - GO, Brasil",
+    formação: "Sistemas de Informação · 2º Período",
+    stack:    ["React", "JavaScript", "C#", ".NET Core", "HTML", "CSS"],
+    status:   "transformando ideias em código 🚀",
+  }
 
-  ⭐ *"A jornada de mil milhas começa com um único passo"* — E eu estou dando os meus primeiros passos no mundo do
-  desenvolvimento!
-
-  </div>
+  https://skillicons.dev/icons?i=html,css,js,react,cs,dotnet,git,github,vscode&theme=dark&perline=9
+  (https://skillicons.dev)
 
   ---
