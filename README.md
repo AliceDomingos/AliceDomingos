@@ -1,8 +1,8 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCente
-  r=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Alice!+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+.NET+Core+%7C+C%23;Semp
-  re+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCente
+r=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Alice!+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+.NET+Core+%7C+C%23;Semp
+re+aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
   </div>
 
