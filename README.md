@@ -15,7 +15,7 @@
 
   <br/>
 
-  ```javascript
+  
   const alice = {
     cargo:    "Desenvolvedora Full Stack",
     cidade:   "Mineiros - GO, Brasil",
@@ -50,7 +50,8 @@
   <br/>
 
   <div align="center">
-  <img src="https://raw.githubusercontent.com/AliceDomingos/AliceDomingos/output/dist/contrib-runner.svg" alt="City
+ 
+  <img src="https://raw.githubusercontent.com/AliceDomingos/AliceDomingos/main/dist/contrib-runner.svg" alt="City
   Animation" />
   </div>
 
