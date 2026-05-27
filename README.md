@@ -20,11 +20,7 @@
 
  
  
-  ## 📊 GitHub Stats
-
-  <div align="center">
-    <img src="https://streak-stats.demolab.com?user=AliceDomingos&theme=tokyonight&hide_border=true" />
-  </div>
+ 
 
 
 
