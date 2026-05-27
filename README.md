@@ -19,17 +19,10 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
+
   <div align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-ba
-  dge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-t
-  he-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-bad
-  ge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-bad
-  ge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-t
-  he-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=react,typescri
+  pt,dotnet,cs,github,vscode" />
   </div>
 
   ---
