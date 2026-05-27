@@ -1,11 +1,13 @@
  # Olá, eu sou Alice Domingos 👋
 
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=
-  22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=De
-  senvolvedora+Full+Stack;React+%7C+TypeScript+%7C+.NET+%7C+SQL+Server"
-  alt="Typing SVG" />
+ <div align="center">
+    <img width="100%" src="https://capsule-render.verce
+  l.app/api?type=waving&color=A855F7&height=120&section
+  =header&text=Alice%20Domingos&fontSize=40&fontColor=w
+  hite&animation=fadeIn&fontAlignY=45&desc=Desenvolvedo
+  ra%20Full%20Stack&descAlignY=68&descSize=18" />
   </div>
+
 
   <br/>
 
