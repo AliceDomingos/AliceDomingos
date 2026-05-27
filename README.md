@@ -15,34 +15,33 @@
 
   ---
 
-  ## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
   <div align="center">
-
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge
-  &logo=react&logoColor=61DAFB)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for
-  -the-badge&logo=typescript&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&l
-  ogo=dotnet&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&log
-  o=csharp&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for
-  -the-badge&logo=microsoftsqlserver&logoColor=white)
-
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-ba
+  dge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-t
+  he-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-bad
+  ge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-bad
+  ge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-t
+  he-badge&logo=microsoftsqlserver&logoColor=white" />
   </div>
 
   ---
+
 
   ## 📊 GitHub Stats
 
   <div align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?
   username=AliceDomingos&show_icons=true&theme=tokyonight&include_all_co
-  mmits=true&count_private=true"/>
+  mmits=true&count_private=true" />
     <img height="160em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al
-  iceDomingos&layout=compact&langs_count=7&theme=tokyonight"/>
+  iceDomingos&layout=compact&langs_count=7&theme=tokyonight" />
   </div>
 
   ---
@@ -57,13 +56,14 @@
 
   ---
 
-  ## 📫 Contato
-
+ 
   <div align="center">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-ba
-  dge&logo=github&logoColor=white)](https://github.com/AliceDomingos)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badg
-  e&logo=gmail&logoColor=white)](mailto:alicedomingosdev18@gmail.com)
-
+    <a href="https://github.com/AliceDomingos">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the
+  -badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:alicedomingosdev18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-
+  badge&logo=gmail&logoColor=white" />
+    </a>
   </div>
